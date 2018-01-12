@@ -1,0 +1,20 @@
+# Django
+# https://docs.djangoproject.com/en/1.11/ref/contrib/gis/install/geolibs/
+binutils
+libproj-dev
+gdal-bin
+
+# Pillow
+# http://pillow.readthedocs.io/en/4.2.x/installation.html#building-on-linux
+# libjpeg8-dev has been replaced by libjpeg62-turbo-dev
+libtiff5-dev
+libjpeg62-turbo-dev
+zlib1g-dev
+libfreetype6-dev
+liblcms2-dev
+libwebp-dev
+libharfbuzz-dev
+libfribidi-dev
+tcl8.6-dev
+tk8.6-dev
+python-tk
